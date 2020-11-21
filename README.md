@@ -19,6 +19,9 @@ It's not only an algorithm for _Tic-Tac-Toe_, but for every game with two player
 alternate move order, for example, chess. Thus, this level is an undefeated 
 champion (so, it can come out with a win, or a tie score).   
 
+There is another feature in this app: if you're tired playing the game, 
+you can even launch a match between two _ai_ and watch them playing.
+
 Since it's not yet in GUI, you might use these coordinates to play the game.
 
 -----------------
@@ -26,3 +29,5 @@ Since it's not yet in GUI, you might use these coordinates to play the game.
 |1 2` `2 2` `3 2|  
 |1 1` `2 1` `3 1|  
 -----------------
+To start the game, after _input command_: type for instance _start hard user_
+which mean match between _aiPlayer (computer)_ and _human_.
