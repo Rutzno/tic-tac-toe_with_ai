@@ -21,8 +21,8 @@ champion (so, it can come out with a win, or a tie score).
 
 Since it's not yet in GUI, you might use these coordinates to play the game.
 
--------------------  
-|1 3` ` 2 3` ` 3 3|  
-|1 2` ` 2 2` ` 3 2|  
-|1 1` ` 2 1` ` 3 1|  
-------------------- 
+-----------------
+|1 3` `2 3` `3 3|  
+|1 2` `2 2` `3 2|  
+|1 1` `2 1` `3 1|  
+-----------------
